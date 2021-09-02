@@ -1,6 +1,6 @@
 # Pokémon Black 2
 
-This is a decompilation of Pokémon Diamond.
+This is a decompilation of Pokémon Black2 Version for the Nintendo DS.
 
 It builds the following ROM:
 
